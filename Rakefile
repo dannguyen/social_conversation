@@ -17,7 +17,7 @@ Jeweler::Tasks.new do |gem|
   gem.name = "social_conversation"
   gem.homepage = "http://github.com/dannguyen/social_conversation"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
+  gem.summary = %Q{A simple model for a series of conversations with timestamps}
   gem.description = %Q{TODO: longer description of your gem}
   gem.email = "dansonguyen@gmail.com"
   gem.authors = ["dannguyen"]
